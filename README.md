@@ -1,2 +1,4 @@
 # cdda-2x-faster-proficiencies
-2 times faster proficiencies learning for Cataclysm DDA experimental branch 2023-04
+Mod that makes it 2 times faster for proficiencies to learn
+
+Cataclysm DDA experimental branch 2023-04
