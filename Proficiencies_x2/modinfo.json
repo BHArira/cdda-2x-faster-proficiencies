@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "proficiencies_2_times_accelerated",
+    "name": "2x Proficiencies",
+    "authors": [ "Arira" ],
+    "description": "Proficiencies is 2 times faster to learn.",
+    "category": "rebalance",
+    "dependencies": [ "dda" ]
+  }
+]
